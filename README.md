@@ -5,7 +5,7 @@ ou
 ### CLCCM - Desenvolvimento de um missil controlado de baixo custo para taticas de guerrilha.
 ![Imagem da logo do projeto](https://blog.positivocasainteligente.com.br/wp-content/uploads/2020/07/1-5-1024x577.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPL83N6vP8oM0T4Z3jAYH9IxvoGrxP67PUg&usqp=CAU](https://png.pngtree.com/png-vector/20220331/ourlarge/pngtree-military-missile-army-rocket-vector-missile-destruction-aircraft-vector-png-image_45015242.jpg)
 
-<img src="![image](https://github.com/vkperitojunior/ARTIGO-Vinicius-Kum-CLCCM/assets/64318456/235a0868-659b-4169-966c-c34882e2eb5b)
+<img src="https://github.com/vkperitojunior/ARTIGO-Vinicius-Kum-CLCCM/assets/64318456/235a0868-659b-4169-966c-c34882e2eb5b
 " alt="Texto Alternativo">
 
   Este é um repositório feito para segurança e demonstração do artigo realizado por
