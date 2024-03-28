@@ -3,7 +3,7 @@ ou
  Favor entre em contato com codnicius@gmail.com
 
 ### CLCCM - Desenvolvimento de um missil controlado de baixo custo para taticas de guerrilha.
-![Imagem da logo do projeto](https://blog.positivocasainteligente.com.br/wp-content/uploads/2020/07/1-5-1024x577.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPL83N6vP8oM0T4Z3jAYH9IxvoGrxP67PUg&usqp=CAU)
+![Imagem da logo do projeto]( https://blog.positivocasainteligente.com.br/wp-content/uploads/2020/07/1-5-1024x577.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPL83N6vP8oM0T4Z3jAYH9IxvoGrxP67PUg&usqp=CAU )
 
   Este é um repositório feito para segurança e demonstração do artigo realizado por
   Vinicius Kum na escola ETECAMP - SP, durante o 3º ano do Ensino Médio integrado ao
